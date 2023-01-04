@@ -2,7 +2,7 @@
 Hi, this is how I resolved this problem assigned by Frontend Mentor.
 I hope you enjoy.
 
-[Live Preview](https://sanseverinoalessio.github.io/qr-code-component/)
+[Live Site](https://sanseverinoalessio.github.io/qr-code-component/)
 
 ### Screenshot
 
