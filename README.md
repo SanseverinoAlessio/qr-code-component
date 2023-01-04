@@ -2,6 +2,8 @@
 Hi, this is how I resolved this problem assigned by Frontend Mentor.
 I hope you enjoy.
 
+[Live Preview](https://sanseverinoalessio.github.io/qr-code-component/)
+
 ### Screenshot
 
 ![](screenshot/Desktop.png)
