@@ -41,6 +41,6 @@
 .card .text{
     margin-bottom: 20px;
     text-align:center;
-    color: hsl(220, 15%, 55%)   !important;
+    color: hsl(220, 15%, 55%);
     font-size: 15px;
 }
